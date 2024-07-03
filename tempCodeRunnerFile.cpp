@@ -1,2 +1,1 @@
-int num = 12;
-    num %= 10;
+ cout << round(5.5) << endl;
