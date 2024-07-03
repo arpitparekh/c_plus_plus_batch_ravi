@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// default
+
 int main(){
 
     cout << "Lets Learn Datatypes in C++" << endl;
