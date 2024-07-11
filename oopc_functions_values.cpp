@@ -2,13 +2,14 @@
 
 using namespace std;
 
-class Intitute
+class Institute
 {
-public:
+
     string name = "";
     int no_student = 0;
     int no_chair = 0;
 
+public:
     void assignValues(string n, int no1, int no2)
     {
         name = n;
@@ -22,16 +23,14 @@ public:
         cout << no_chair << endl;
     }
 };
-
 int main()
 {
 
-    Intitute i;
-
+    Institute i;
     i.assignValues("Bascom", 25, 35);
     i.displayValues();
 
-    Intitute i2;
+    Institute i2;
     i2.assignValues("Tops", 70, 40);
     i2.displayValues();
 
