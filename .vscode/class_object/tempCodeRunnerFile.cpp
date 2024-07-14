@@ -1,0 +1,1 @@
+tring n, string n1,int p,int m
