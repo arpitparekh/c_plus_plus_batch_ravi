@@ -22,7 +22,6 @@ public:
 
 int main()
 {
-
     Collge c;
 
     cout << c.name << endl;
