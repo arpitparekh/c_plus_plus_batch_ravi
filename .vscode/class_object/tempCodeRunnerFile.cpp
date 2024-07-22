@@ -1,1 +1,2 @@
-tring n, string n1,int p,int m
+
+        cout << "child class" << endl;
